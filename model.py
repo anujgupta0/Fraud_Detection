@@ -7,4 +7,6 @@ def model2():
     print("model code 2")
 
 def model3():
-    print("model code 3")    
+    print("model code 3")  
+
+print("model 2 is performing best")  
